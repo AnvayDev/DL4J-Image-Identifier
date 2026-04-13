@@ -1,5 +1,5 @@
 # RandomProjects
-Java Image Ident. IDK who would ever even use this but its cool.
+Java Image Ident. 
 ---------------------------------------------------------------------------
 The model files you have to use must be PRE-TRAINED!!!
 Put the .txt file in the resources folder of the project or else it will use fallback labels!!
